@@ -35,6 +35,8 @@ Google Maps renders the live location with zoom support.
 Latitude and longitude values update in real time.
 # visuals of location tracker
 <img width="990" height="980" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/020ec7b0-5b00-4f0e-80d6-24d3e48771d6" />
+<img width="990" height="980" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/c88f18f7-b579-4c77-9967-973f4e6224bf" />
+"
 
 
 
