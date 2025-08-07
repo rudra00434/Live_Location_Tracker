@@ -1,5 +1,5 @@
 # Live_Location_Tracker
-get your live location with this website
+get your live location with this website by the help of google maps 
 # 🌍 Live Location Tracker with Google Maps
 This project is a simple and dynamic Live Location Tracker built with HTML, JavaScript, and the Google Maps JavaScript API. It tracks your real-time location in the browser and updates your position with zoomable map controls.
 
