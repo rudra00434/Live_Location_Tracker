@@ -15,7 +15,7 @@ Edit
  ┣ 📄 script.js          # JavaScript for map and geolocation
  ┗ 📄 README.md          # Project documentation
 ```
-📸 Features
+# 📸 Features
 Real-time user location tracking
 
 Google Maps integration
@@ -25,6 +25,14 @@ Dynamic map marker update
 Zoom in/out and map control
 
 Displays live latitude and longitude
+# 🧠 How It Works
+Browser requests your geolocation.
+
+Once permission is granted, your current coordinates are retrieved.
+
+Google Maps renders the live location with zoom support.
+
+Latitude and longitude values update in real time.
 # visuals of location tracker
 <img width="990" height="980" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/020ec7b0-5b00-4f0e-80d6-24d3e48771d6" />
 
